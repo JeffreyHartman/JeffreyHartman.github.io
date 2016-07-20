@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Jeff Hartman. I've been a professional software developer for two years. I started this blog to track my journey learning game development, and to keep myself motivated to keep learning.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dracul104@gmail.com](mailto:dracul104@gmail.com)
